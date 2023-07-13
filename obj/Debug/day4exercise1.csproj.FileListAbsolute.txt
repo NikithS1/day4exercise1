@@ -1,0 +1,8 @@
+D:\mphasis\Day 4\day4exercise1\day4exercise1\bin\Debug\day4exercise1.exe.config
+D:\mphasis\Day 4\day4exercise1\day4exercise1\bin\Debug\day4exercise1.exe
+D:\mphasis\Day 4\day4exercise1\day4exercise1\bin\Debug\day4exercise1.pdb
+D:\mphasis\Day 4\day4exercise1\day4exercise1\obj\Debug\day4exercise1.csproj.AssemblyReference.cache
+D:\mphasis\Day 4\day4exercise1\day4exercise1\obj\Debug\day4exercise1.csproj.SuggestedBindingRedirects.cache
+D:\mphasis\Day 4\day4exercise1\day4exercise1\obj\Debug\day4exercise1.csproj.CoreCompileInputs.cache
+D:\mphasis\Day 4\day4exercise1\day4exercise1\obj\Debug\day4exercise1.exe
+D:\mphasis\Day 4\day4exercise1\day4exercise1\obj\Debug\day4exercise1.pdb
